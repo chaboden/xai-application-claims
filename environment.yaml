@@ -1,0 +1,6 @@
+name: xai-claims
+channels:
+  - conda-forge
+dependencies:
+  - requests
+  - python-dotenv
