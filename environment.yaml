@@ -4,3 +4,7 @@ channels:
 dependencies:
   - requests
   - python-dotenv
+  - pybliometrics
+  - pandas
+  - jupyter
+  - matplotlib
