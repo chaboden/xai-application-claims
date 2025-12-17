@@ -2,6 +2,7 @@ name: xai-claims
 channels:
   - conda-forge
 dependencies:
+  - bibtexparser
   - requests
   - python-dotenv
   - pybliometrics
