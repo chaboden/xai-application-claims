@@ -1,5 +1,7 @@
 # xai-application-claims
 
+This repository belongs to the master thesis "Charting claims of authors using XAI methods in the field of medical imaging". 
+
 ## Installation
 
 Create and activate the virtual environment:
